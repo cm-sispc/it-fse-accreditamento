@@ -42,18 +42,6 @@
                 ]
 		},
 		
-			{
-			"id": 107,
-            "ts":"2023-02-03T15:50:39Z",
-			"traceId": "1b1e43ef112d6b75",
-			"workflowInstanceId": "2.16.840.1.113883.2.9.2.90.4.4.41309ad9ee4a4dc5d8d043451d8fd76972699d3f573504fe5a355b3cfe1feb28.91a491e549^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-			"files": [
-                "SINGVACC_TC5.PDF"
-                ]
-		},
-
-
-
 		{
 			"id": 117,
             "ts":"2023-02-03T17:10:51Z",
@@ -150,19 +138,6 @@
 			"traceId": "80371154d60c0cb6",
 			"workflowInstanceId": "2.16.840.1.113883.2.9.2.90.4.4.b139871cf00b7d602344ddbdbdde313db9da07194a32271c6ecdf7b0f987a265.8e7277bd26^^^^urn:ihe:iti:xdw:2013:workflowInstanceId"			
 		},
-		
-			
-		{
-			"id": 94,
-            "ts":"2023-02-07T11:02:43Z",
-			"traceId": "af8f15613e1b57aa",
-			"workflowInstanceId": "2.16.840.1.113883.2.9.2.90.4.4.a7c686cb97b6b996280eea8c2c140032a998fefa7ae27efb64ef70077ce8a222.f77e04ad19^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
-			"files": [
-                "CERTVACC_TC5.PDF"
-                ]
-		},
-		
-	
 		
 		{
 			"id": 102,
